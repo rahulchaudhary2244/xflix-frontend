@@ -6,7 +6,7 @@ import { SnackbarProvider } from 'notistack';
 import theme from './Theme';
 
 export const config = {
-    endpoint: `https://xflix-nodejs-server.herokuapp.com/v1`, //`http://localhost:8082/v1`, //`https://6942ec51-4423-43dc-bb80-606405084295.mock.pstmn.io/v1`,
+    endpoint: `https://xflix-nodejs-server.onrender.com/v1`, //`http://localhost:8082/v1`, //`https://6942ec51-4423-43dc-bb80-606405084295.mock.pstmn.io/v1`,
 };
 
 function App() {
